@@ -19,7 +19,7 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
-div {
+section {
   padding: 2rem;
   width: 200px;
   height: 100%;
